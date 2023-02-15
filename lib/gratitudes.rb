@@ -1,10 +1,9 @@
-class Person
+class Gratitudes
   def initialize
     @gratitudes = []
   end
 
   def length
-
   end
 
   def add(gratitude)
